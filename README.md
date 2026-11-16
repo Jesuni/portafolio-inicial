@@ -7,3 +7,7 @@
 * Automatizar flujos de trabajo y despliegues utilizando control de versiones con Git y GitHub.
 * Gestionar ramas, resolver conflictos y realizar revisiones de código en equipo.
 * Integrar scripts y documentación técnica en repositorios colaborativos de forma profesional.
+
+## Mis proyectos
+* **Servidor doméstico de IA:** Despliegue local de modelos de lenguaje y servicios mediante Docker y Ollama.
+* **Automatización de redes:** Scripts en Bash y PowerShell para la configuración y diagnóstico de interfaces de red en entornos virtualizados.
